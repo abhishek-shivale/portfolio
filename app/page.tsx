@@ -13,7 +13,7 @@ const Portfolio = () => {
       title: "eCommerce Web Application",
       description: "A full-featured MERN stack eCommerce platform with user authentication, shopping cart management, and product browsing functionality.",
       tech: ["MongoDB", "Express.js", "React", "Node.js"],
-      github: "https://github.com/abhishek-shivale/React-app-anime.git"
+      github: "https://github.com/abhishek-shivale/Ecommerce-React.git"
     }
   ];
 
